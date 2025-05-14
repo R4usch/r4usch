@@ -1,6 +1,6 @@
 
 <div>
-<img align="center" alt="Header" src="https://r4usch.github.io/images/github-header-image?raw=true"/>
+<img align="center" alt="Header" src="https://r4usch.github.io/images/github-header-image.png?raw=true"/>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4usch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
